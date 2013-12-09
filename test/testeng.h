@@ -10,9 +10,11 @@ public:
     explicit testeng(QObject *parent = 0);
     
 signals:
-    
-public slots:
+
+private slots:
     void testMethod();
+public slots:
+
     
 };
 
