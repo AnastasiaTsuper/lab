@@ -11,8 +11,10 @@ public:
     
 signals:
     
-public slots:
+private slots:
     void testMethod();
+public slots:
+
     
 };
 
